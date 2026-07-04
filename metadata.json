@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast",
+  "description": "A beautiful, real-time weather forecasting app with live search, geolocation, and detailed predictions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
